@@ -1,0 +1,5 @@
+Tres ejemplos
+
+1. Microsoft Word: es un procesador de texto desarrollado por Microsoft que permite crear y editar documentos de texto.
+2. Trello: es una herramienta de gestión de proyectos y tareas que permite organizar y seguir el progreso de proyectos en tableros visuales. Está disponible para Windows, macOS, Android e iOS.
+3. Zoom: es una plataforma de videoconferencias y reuniones en línea que permite realizar llamadas y reuniones con múltiples participantes. Está disponible para Windows, macOS, Linux, Android e iOS.

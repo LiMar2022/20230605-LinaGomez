@@ -1,0 +1,7 @@
+Tres memorias principales
+
+1. Memoria RAM: La memoria de acceso aleatorio (RAM) es un tipo de memoria volátil que se utiliza para almacenar temporalmente datos e instrucciones que el procesador necesita para realizar sus tareas. 
+
+2. Memoria ROM: La memoria de solo lectura (ROM) guarda las instrucciones necesarias para que la computadora pueda iniciarse.
+
+3. Memoria Caché: La memoria caché es un tipo de memoria de alta velocidad utilizada por el procesador para almacenar temporalmente datos e instrucciones que se utilizan con frecuencia. 

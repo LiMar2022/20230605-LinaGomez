@@ -1,0 +1,27 @@
+  486  mkdir 20230605-LinaGomez
+  487  cd 20230605-LinaGomez/
+  488  git init
+  489  git remote add origin https://github.com/LiMar2022/20230605-LinaGomez.git
+  490  git remote -v
+  491  touch comandos.txt main.js index.html
+  492  git add .
+  493  git status
+  494  git commit -m "commit 01 de linaGomez"
+  495  git push origin main
+  496  git branch feature
+  497  git checkout feature 
+  498  mkdir Hardware Software SeguridadInformatica
+  499  touch Hardware/resumen.txt Software/resumen.txt SeguridadInformatica/resumen.tct
+  500  cd SeguridadInformatica/
+  501  mv resumen.tct resumen.txt
+  502  cd ..
+  503  ls -R
+  504  git add .
+  505  git status
+  506  git commit -m "commit 02 de linaGomez"
+  507  git push origin feature
+  508  git checkout main
+  509  mv main.js resumenHardware.txt
+  510  mv index.html resumenSoftware.txt
+  511  code .
+  512  history 50 > comandos.txt 
